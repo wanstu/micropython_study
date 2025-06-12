@@ -1,15 +1,12 @@
 <template>
-  <uni-nav-bar title="导航栏组件">sss</uni-nav-bar>
+  <uni-nav-bar left-icon="left" title="标题"/>
 </template>
 
 <script setup>
-
+uni.navigateTo({
+  url: '/pages/network/index',
+})
 </script>
 
 <style lang="scss" scoped>
-.container {
-   .title {
-    font-size: 60px;
-   }
-}
 </style>

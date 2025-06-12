@@ -1,0 +1,58 @@
+{
+  "id": "4948289",
+  "name": "micropython",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1567697",
+      "name": "wifi-3",
+      "font_class": "wifi_",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "20113040",
+      "name": "wifi-2",
+      "font_class": "bx-wifi-2",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "20113043",
+      "name": "wifi-1",
+      "font_class": "bx-wifi-1",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "5761763",
+      "name": "unconnect",
+      "font_class": "weilianjie",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "34910177",
+      "name": "connected",
+      "font_class": "yilianjie",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "15838497",
+      "name": "lock",
+      "font_class": "lock",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "15838546",
+      "name": "unlock",
+      "font_class": "unlock",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    }
+  ]
+}
